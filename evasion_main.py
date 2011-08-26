@@ -128,7 +128,7 @@ while True:
             screen.blit(reversebullet,(bullet_x, bullet_y))
 
     fpsi = fpsi + 1
-    if fpsi%200 == 0:
+    if fpsi%250 == 0:
         print "FPS:",clock.get_fps()#print FPS every 50 loops/frames.
     clock.tick(70) #FPS
     
