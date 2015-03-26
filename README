@@ -1,5 +1,7 @@
-You need to have PyGame installed before playing this game: http://www.pygame.org/download.shtml
+You are a smiley face, and you have to evade the sad faces.
+This game was made back in 2011 when I started learning how to program so it's very simple.
 
+You need to have PyGame installed before playing this game: http://www.pygame.org/download.shtml
 
 Run evasion_main to play the game.
 Use the mouse to move the smiley and
